@@ -1,5 +1,4 @@
 import time
-from traceback import print_tb
 import psutil
 
 
